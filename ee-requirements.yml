@@ -15,3 +15,5 @@ collections:
   - community.kubernetes
   # Added for community.dns.hetzner_dns_record
   - community.dns
+  # Added to build the OS image using insights image builder
+  - enothen.image_builder

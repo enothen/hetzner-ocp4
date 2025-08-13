@@ -9,3 +9,4 @@ python3.11-devel
 python-devel
 # for postinstall commands
 python3-pip
+guestfs-tools
