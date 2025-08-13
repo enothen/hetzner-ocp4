@@ -1,5 +1,9 @@
 # RELEASE NOTES
 
+## 2025-08-12
+ * Updated process to use ansible-navigator
+ * Updated EE to have image_builder collection and guestfs-tools installed
+
 ## 2025-04-13
  * Added process to create qcow2 image using Red Hat Insights Image Builder, through the ansible-image-builder role
  * Added new process to documentation
